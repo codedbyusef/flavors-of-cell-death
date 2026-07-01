@@ -230,3 +230,6 @@ output/literature_search/*
 !output/literature_search/
 !output/literature_search/.gitkeep
 
+output/loadings/*
+!output/loadings/
+!output/loadings/.gitkeep
