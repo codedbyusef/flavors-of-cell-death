@@ -222,6 +222,7 @@ __marimo__/
 data/*
 !data/raw/
 
+output/*
 output/PCA/*
 !output/PCA/
 !output/PCA/.gitkeep
