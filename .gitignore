@@ -218,19 +218,10 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Data
+# codedbyusef
+
 data/*
-!data/raw/
+!data/.gitkeep
 
 output/*
-output/PCA/*
-!output/PCA/
-!output/PCA/.gitkeep
-
-output/literature_search/*
-!output/literature_search/
-!output/literature_search/.gitkeep
-
-output/loadings/*
-!output/loadings/
-!output/loadings/.gitkeep
+!output/.gitkeep
